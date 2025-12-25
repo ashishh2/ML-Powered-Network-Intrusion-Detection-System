@@ -4,14 +4,15 @@ This project implements a machine learning model to classify network traffic as 
 
 ## **Project Structure**
 
-nids\_project/  
-├── .gitignore          
-├── data/                \# (Created by script) Stores the dataset  
+```
+nids_project/  
+├── data/              
 ├── notebooks/  
-│   └── NIDS\_Project.ipynb  \# Main Jupyter Notebook for analysis  
+│   └── NIDS_Project.ipynb  
 ├── scripts/  
-│   └── download\_dataset.py \# Script to download and extract the data  
-└── requirements.txt    \# Python package dependencies
+│   └── download_dataset.py
+└── requirements.txt
+```
 
 ## **Setup and Usage**
 
